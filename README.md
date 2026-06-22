@@ -27,6 +27,17 @@ Home Assistant — in a single app.
 Everything is configurable later from **Settings** (`http://<tablet-ip>:2323/`).
 Nothing is hard-coded to one network — leave any field blank to disable that feature.
 
+## Home Assistant entities
+
+Paired with the [companion integration](https://github.com/sbr-labs/kioskmode-ha), the app exposes:
+
+| Entity | Details |
+|---|---|
+| `camera.kioskcam` | Live H.264 stream (RTSP) + JPEG snapshots |
+| Binary sensors | Streaming, Motion, Face, Noise, Charging, Screen On, Dark Mode |
+| Sensors | Battery, Battery Temperature, Camera FPS, Noise Level, Version, Wi-Fi Signal, Wi-Fi Network, Wi-Fi Band, Wi-Fi Link Speed, Memory Free, Storage Free, Uptime, Orientation, Power Source |
+| Switch | Screen on/off |
+
 ## Settings reference
 
 | Setting | What it does |
