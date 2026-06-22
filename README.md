@@ -58,4 +58,4 @@ newer build is released. Point the **Update feed** setting at your own host to s
 
 Free for personal and other **noncommercial** use under the
 [PolyForm Noncommercial License 1.0.0](LICENSE). **Commercial use requires a paid
-license** — contact sjbrowning7@gmail.com for commercial / royalty terms.
+license** — contact software@str-performance.com for commercial / royalty terms.
